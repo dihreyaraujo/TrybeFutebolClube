@@ -1,4 +1,4 @@
-#Meu Projeto de Tabela de Futebol
+#Meu Projeto de Tabela de Futebol:
 
 ###Este projeto contém apenas o Back-End, pois o Front-End foi desenvolvido pela Trybe, e neste repositório o intuito é demonstrar a minha competência em escrever códigos pro Back-End. Houve também a dockerização do meu projeto para poder realizá-lo, porém aqui, só será encontrado as lógicas realizadas e as rotas criadas.
 
