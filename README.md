@@ -19,9 +19,9 @@
 
 <img width="1280" height="580" src="src/videos/tfc-video-1.gif" alt="vídeo demonstrando o front-end do site" />
 
+<p>OBS: Houve um bug no gravador, onde ele não capturou os seletores quando cliquei para fazer alterações na busca pelo tipo de partida.</p>
+
 <br/>
 <br/>
 
 <img width="1280" height="580" src="src/videos/tfc-video-2.gif" alt="vídeo demonstrando o front-end do site" />
-
-<p>OBS: Houve um bug no gravador, onde ele não capturou os seletores quando cliquei para fazer alterações na busca pelo tipo de partida.</p>
